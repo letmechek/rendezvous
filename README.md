@@ -21,7 +21,8 @@ A MAK-daddies team project by M:atej Zecic, A:bdullahi Ali, K:eith Williams.
   <a href="#icebox-features">Icebox features</a> •
 </p>
 
-![screenshot](/main_app/static/img/Detail%20page%20screenshot.png)
+<!-- ![screenshot](/main_app/static/img/Detail%20page%20screenshot.png) -->
+![screenshot](/main_app/static/img/rendezvous_lg.png)
 
 ## Key Features
 
